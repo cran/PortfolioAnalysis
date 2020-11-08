@@ -30,5 +30,5 @@ Optimizes portfolio weights by minimizing the variance
 Minimizes the variance using the method of lagrange multiplier to calculate the portfolio weights with minimized variance for given target return.
 }
 \examples{
-optim.portfolio(c('FXAIX', 'TIBFX'), period = 'weeks')
+optim.portfolio(c('FXAIX', 'TIBFX'), period = 'days')
 }

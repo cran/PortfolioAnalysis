@@ -1,12 +1,12 @@
-24a4d1db4ec09c487c1a8fa8c4f7edde *DESCRIPTION
+b107978bc7e9b85bd59bb8792275c344 *DESCRIPTION
 b0dae9cee00b3b0ed7cc6252cd4a9393 *NAMESPACE
-be1def7fb20a44857c0841973ed1bf24 *R/port_plot.R
+94047cf107a08c582c986c11889b51e4 *R/port_plot.R
 44b1b606bc1e1fefdb16b41f9669de49 *R/portfolio_manager.R
-43322149b6f8aae146e940eb62073e1f *R/portfolio_optimizer.R
+397ada50384e86c2f0a0372d3f6c6f21 *R/portfolio_optimizer.R
 74263f7ec8aef2511e98c482d6131c52 *R/target_return.R
 fb0c56dfc605af7e44fcd06bb4980dc0 *R/target_weight_returns.R
-8c9bda0489f7a277de13bb0b61c6e651 *man/EfficientFrontier.Rd
+7a130110a4e72a82675c0d7c33fb6d72 *man/EfficientFrontier.Rd
 02f680247ebc1419a40123ba62683d28 *man/PortfolioManager.Rd
 68ce3fd9288020e7632c662705b13474 *man/optim.TargetReturn.Rd
 9f8cf9447fd2865fb2c9d07380103f6c *man/optim.Weight.Return.Rd
-2b3d8b147d02cb28effdad2ebf5191f8 *man/optim.portfolio.Rd
+5cac230eada1c9a3a44027c58e6ac40a *man/optim.portfolio.Rd

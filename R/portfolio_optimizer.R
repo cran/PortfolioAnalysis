@@ -7,7 +7,7 @@
 #' @return Returns a dataframe of the portfolios with different portfolio weights and different target returns and target standard deviation. Using this an investor can choose between range of portfolio to allocate funds.
 #' @details Minimizes the variance using the method of lagrange multiplier to calculate the portfolio weights with minimized variance for given target return.
 #' @examples
-#' optim.portfolio(c('FXAIX', 'TIBFX'), period = 'weeks')
+#' optim.portfolio(c('FXAIX', 'TIBFX'), period = 'days')
 #' @rdname optim.portfolio
 #' @import quantmod
 #' @importFrom purrr map

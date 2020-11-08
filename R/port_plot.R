@@ -7,7 +7,7 @@
 #' @return Interactive plot of the effiecnt frontier for given security/funds
 #' @details Give and interactive effient frontier for given securities
 #' @examples
-#' EfficientFrontier(c('FXAIX', 'TIBFX'), period = 'weeks')
+#' EfficientFrontier(c('FXAIX', 'TIBFX'), period = 'days')
 #' @rdname EfficientFrontier
 #' @import ggplot2
 #' @import quantmod

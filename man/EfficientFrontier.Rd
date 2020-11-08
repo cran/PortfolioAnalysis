@@ -30,5 +30,5 @@ Plots the efficient frontier for the security (mean-variance portfolios)
 Give and interactive effient frontier for given securities
 }
 \examples{
-EfficientFrontier(c('FXAIX', 'TIBFX'), period = 'weeks')
+EfficientFrontier(c('FXAIX', 'TIBFX'), period = 'days')
 }
